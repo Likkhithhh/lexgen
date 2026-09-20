@@ -88,5 +88,6 @@ Explore the rest of my GitHub portfolio:
 - [lexgen](https://github.com/Likkhithhh/lexgen) — educational lexer-generator and compiler-design project
 - [ATTENDENCEBOT](https://github.com/Likkhithhh/ATTENDENCEBOT) — face-recognition reference work for an attendance-system portfolio project
 - **READS — North Karnataka Student Dropout Risk System** — Python/AI/ML internship project at Rural Education and Action Development Society (READS), 03 Aug–03 Sep 2026; focused on student-attribute analysis, preprocessing, dropout-risk prediction, model evaluation, and results
+- **READS Karnataka Website** — organization website project built with HTML, CSS, and JavaScript; includes programme/project pages, board/member pages, donor and contact sections, images, and Firebase configuration
 
 **GitHub:** [Likkhithhh](https://github.com/Likkhithhh)
